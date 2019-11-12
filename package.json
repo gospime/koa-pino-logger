@@ -1,6 +1,6 @@
 {
   "name": "@gospime/koa-pino-logger",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "pino logging koa middleware",
   "keywords": [
     "gospime",
