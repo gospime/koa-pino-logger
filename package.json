@@ -4,7 +4,6 @@
   "description": "pino logging koa middleware",
   "keywords": [
     "gospime",
-    "http",
     "logger",
     "pino",
     "koa"
