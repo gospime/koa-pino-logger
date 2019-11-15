@@ -1,2 +1,2 @@
-# HTTP logger
-HTTP request logger middleware for koa
+# Koa's Pino logger
+Pino logging Koa middleware
